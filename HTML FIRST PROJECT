@@ -10,7 +10,6 @@
 				background-color: gray;
 				padding: 20px;
 				border-radius: 10px;
-				border-bottom: 25px;
 			}
 		</style>
 	</head>
