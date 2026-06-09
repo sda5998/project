@@ -6,8 +6,8 @@
 		<style>	
 			.board1 {
 				width: 300px;
-				heigh: 450px;
-				background-color: charcoal;
+				height: 450px;
+				background-color: gray;
 			}
 		</style>
 	</head>
